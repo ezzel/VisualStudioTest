@@ -8,7 +8,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Testing out this pull request.";
+	cout << "Testing out this pull request."; 
+	cout << "Anothe issue";
     return 0;
 }
 
