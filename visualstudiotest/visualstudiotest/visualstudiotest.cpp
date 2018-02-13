@@ -2,12 +2,13 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
+using namespace std;
 
 int main()
 {
-	var test = "Testing out this pull request."
-    // Test
+	cout << "Testing out this pull request.";
     return 0;
 }
 
